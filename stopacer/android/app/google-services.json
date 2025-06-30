@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "255202876843",
+    "project_id": "stopacer-ea621",
+    "storage_bucket": "stopacer-ea621.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255202876843:android:8ece88382e68e3cf2b46ee",
+        "android_client_info": {
+          "package_name": "com.example.stopacer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDjmrAzJKpG9g7qCYl7dCGJ41Y8yeDH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255202876843:android:0e1a17640e1888de2b46ee",
+        "android_client_info": {
+          "package_name": "com.stopacer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANDjmrAzJKpG9g7qCYl7dCGJ41Y8yeDH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
